@@ -1,0 +1,12 @@
+langchain
+langchain-community
+chromadb
+pypdf
+torch
+numpy
+pandas
+sentence-transformers
+jupyter
+ipykernel
+llama-index
+python-dotenv
